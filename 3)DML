@@ -1,0 +1,7 @@
+WHERE is used to specify the condition
+DML : DATA MANIPULATION LANGUAGE
+COMMANDS IN DML ARE :
+1) INSERT INTO -> INSERT INTO table_name(column,+) VALUES (value,+) ;
+2) SELECT -> SELECT * FROM table_name;
+3) DELETE -> DELETE FROM table_name WHERE value='CERTAIN CONDITION'
+4) UPDATE SET -> UPDATE table_name SET value='some thing' WHERE 'condition'
