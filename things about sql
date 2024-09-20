@@ -1,0 +1,8 @@
+sql : structured query language 
+it is used to store data in a database by converting the data into tables.
+the main operations that can be done in a sql are : create read update delete
+the 4 main branches of the sql are : DDL (data defination language) 
+                                     DML (data manipulation language)
+                                     DCL (data control language)
+                                     TCL (transaction control language)
+                                     
