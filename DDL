@@ -1,0 +1,9 @@
+DATATYPES: INT VARCHAR2 NUMBER DATE
+KEY TYPE: PRIMARY KEY, FOREIGN KEY
+
+DDL: Data Defination Language
+the operations in DDL are:
+1)create -> CREATE  TABLE table_name(column_name DATATYPE KEYTYPE);
+2)Drop -> DROP TABLE table_name (DROPS THE TABLE PERMANENTLY)
+3)Alter -> ALTER TABLE table_name ADD column_name DATATYPE;
+4)Truncate -> TRUNCATE TABLE table_name (DROPS ALL THE DATA FROM THE EXISTING TABLE PERMANENTLY)
