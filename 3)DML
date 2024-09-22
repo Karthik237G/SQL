@@ -5,3 +5,4 @@ COMMANDS IN DML ARE :
 2) SELECT -> SELECT * FROM table_name;
 3) DELETE -> DELETE FROM table_name WHERE value='CERTAIN CONDITION'
 4) UPDATE SET -> UPDATE table_name SET value='some thing' WHERE 'condition'
+5) RENAME -> RENAME old table_name TO new table_name
